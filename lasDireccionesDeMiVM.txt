@@ -1,0 +1,5 @@
+Direccion IP de mi VM:  inet addr:10.0.2.15
+Direccion MAC de mi VM:  HWaddr 08:00:27:eb:16:33  
+
+La IP pública y privada de mi maquina host son diferentes.
+
